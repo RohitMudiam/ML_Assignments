@@ -8,5 +8,5 @@ Assignment-1 Video link: [https://drive.google.com/drive/u/0/folders/1RvqK21KQHq
 ## Short Description for Assignment 2 
 Machine Learning assignment 2 is about classification. Classification in supervised Machine Learning (ML) is the process of predicting the class or category of data based on predefined classes of data that have been 'labeled'. Labeled data is data that has already been classified.
 
-Assignment-2 Video link: [] 
+Assignment-2 Video link: [https://drive.google.com/drive/folders/1k0cW-alNfMix7rZSW7tivgq44tEVDTFF] 
 
